@@ -23,7 +23,7 @@ email: dbollard@pdx.edu
 description: Tis but a personal website.
 date: "March 26, 2021"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dylan-bollard.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
