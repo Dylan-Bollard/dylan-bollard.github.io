@@ -1,0 +1,40 @@
+---
+---
+
+TO DO:
+
+** SOCIAL MEDIA **
+- linkedin
+- GitHub
+	+ JSON keyboard code
+	+ Stata Program
+	+ R Project
+	+ LUA code
+	+ LaTex Guides
+	+ Stata Sampling Program
+	+ EC 201 Course
+- Kaggle
+- Letterboxd
+- Spotify Clean
+- Discogs (populate)
+
+** WEBSITE **
+- favicons
+- footer height
+- sitemap
+- Google Tag Manager
+- finish linking projects
+- Food Insecurity Study @ PCC
+
+
+** POSTS **
+- Hydrostatic Equilibrium
+- Minecraft Servers
+- Plex Servers (headless)
+- Mounting Hard Drives
+- Cliffracers
+- Books you're working on
+- Interesting music album reviews
+- Keyboard Mapping (macOS)
+- Math Books of interest
+- Recipes - specifically for bread or paleo cookies or something
