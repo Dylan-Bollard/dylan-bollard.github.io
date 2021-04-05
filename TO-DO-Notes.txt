@@ -13,11 +13,10 @@ TO DO:
 	+ LaTex Guides
 	+ Stata Sampling Program
 	+ EC 201 Course
-- Letterboxd
 - Discogs (populate)
+- Letterboxd (populate)
 
 ** WEBSITE **
-- footer height
 - sitemap
 - Google Tag Manager
 - finish linking projects
@@ -34,4 +33,4 @@ TO DO:
 - Interesting music album reviews
 - Keyboard Mapping (macOS)
 - Math Books of interest
-- Recipes - specifically for bread or paleo cookies or something
+- Recipes: specifically for bread or paleo cookies or something
