@@ -13,13 +13,10 @@ TO DO:
 	+ LaTex Guides
 	+ Stata Sampling Program
 	+ EC 201 Course
-- Kaggle
 - Letterboxd
-- Spotify Clean
 - Discogs (populate)
 
 ** WEBSITE **
-- favicons
 - footer height
 - sitemap
 - Google Tag Manager
