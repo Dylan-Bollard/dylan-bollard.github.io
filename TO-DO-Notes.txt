@@ -8,10 +8,8 @@ TO DO:
 - GitHub
 	+ JSON keyboard code
 	+ Stata Program
-	+ R Project
 	+ LUA code
 	+ LaTex Guides
-	+ Stata Sampling Program
 	+ EC 201 Course
 - Discogs (populate)
 - Letterboxd (populate)
@@ -19,8 +17,6 @@ TO DO:
 ** WEBSITE **
 - sitemap
 - Google Tag Manager
-- finish linking projects
-- Food Insecurity Study @ PCC
 
 
 ** POSTS **
@@ -28,7 +24,7 @@ TO DO:
 - Minecraft Servers
 - Plex Servers (headless)
 - Mounting Hard Drives
-- Cliffracers
+- Cliffracers (got the title image)
 - Books you're working on
 - Interesting music album reviews
 - Keyboard Mapping (macOS)
