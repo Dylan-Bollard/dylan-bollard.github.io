@@ -17,6 +17,7 @@ TO DO:
 ** WEBSITE **
 - sitemap
 - Google Tag Manager
+- Capstone Project
 
 
 ** POSTS **
@@ -30,3 +31,4 @@ TO DO:
 - Keyboard Mapping (macOS)
 - Math Books of interest
 - Recipes: specifically for bread or paleo cookies or something
+- Music Videos / Skate Video
