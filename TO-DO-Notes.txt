@@ -4,20 +4,22 @@
 TO DO:
 
 ** SOCIAL MEDIA **
-- linkedin
 - GitHub
 	+ JSON keyboard code
 	+ Stata Program
-	+ Karabiner Config Files 
+	+ R Project
 	+ LUA code
 	+ LaTex Guides
+	+ Stata Sampling Program
 	+ EC 201 Course
+
+- Kaggle
 - Discogs (populate)
 
 ** WEBSITE **
 - sitemap
 - Google Tag Manager
-- Capstone Project
+- finish linking projects
 
 
 ** POSTS **
@@ -25,11 +27,9 @@ TO DO:
 - Minecraft Servers
 - Plex Servers (headless)
 - Mounting Hard Drives
-- Cliffracers (got the title image)
+- Cliffracers
 - Books you're working on
 - Interesting music album reviews
 - Keyboard Mapping (macOS)
 - Math Books of interest
-- Recipes: specifically for bread or paleo cookies or something
-- Music Videos / Skate Video
-- Grading and Positive Reinforcement - Personal Website
+- Recipes - specifically for bread or paleo cookies or something
