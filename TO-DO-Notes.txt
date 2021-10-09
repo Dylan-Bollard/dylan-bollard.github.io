@@ -8,11 +8,11 @@ TO DO:
 - GitHub
 	+ JSON keyboard code
 	+ Stata Program
+	+ Karabiner Config Files 
 	+ LUA code
 	+ LaTex Guides
 	+ EC 201 Course
 - Discogs (populate)
-- Letterboxd (populate)
 
 ** WEBSITE **
 - sitemap
@@ -32,3 +32,4 @@ TO DO:
 - Math Books of interest
 - Recipes: specifically for bread or paleo cookies or something
 - Music Videos / Skate Video
+- Grading and Positive Reinforcement - Personal Website
