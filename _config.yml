@@ -19,11 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Dylan Bollard
-email: dbollard@pdx.edu
+email: dylan-bollard@outlook.com
 description: Tis but a personal website.
-date: "March 26, 2021"
+date: "April 1, 2024"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.dylan-bollard.me" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Custom Variables
+footer: © 2024 Dylan Bollard · Powered by the Minima theme for Jekyll.
+	  	Last updated on April 1, 2024
 
 # Build settings
 theme: minima
