@@ -22,12 +22,13 @@ title: Dylan Bollard
 email: dylan-bollard@outlook.com
 description: Tis but a personal website.
 date: "April 1, 2024"
+year: "2024"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.dylan-bollard.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Custom Variables
-footer: © 2024 Dylan Bollard · Powered by the Minima theme for Jekyll.
-	  	Last updated on April 1, 2024
+# footer: "2024 Dylan Bollard · Powered by the Minima theme for Jekyll.
+#	  	Last updated on April 1, 2024"
 
 # Build settings
 theme: minima
