@@ -5,4 +5,3 @@ categories:
 permalink: "/faq/"
 ---
 
-This is a test.
