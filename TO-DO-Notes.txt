@@ -3,6 +3,8 @@
 
 TO DO:
 
+- Elevator pitch for CV
+
 ** SOCIAL MEDIA **
 - GitHub
 	+ JSON keyboard code
