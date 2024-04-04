@@ -1,22 +1,17 @@
----
----
-
 TO DO:
 
 - Elevator pitch for CV
 
+- running and triathlon stuff, link thismessyhappy
+
 ** SOCIAL MEDIA **
 - GitHub
-	+ JSON keyboard code
 	+ Stata Program
 	+ R Project
 	+ LUA code
 	+ LaTex Guides
 	+ Stata Sampling Program
 	+ EC 201 Course
-
-- Kaggle
-- Discogs (populate)
 
 ** WEBSITE **
 - sitemap
@@ -34,4 +29,4 @@ TO DO:
 - Interesting music album reviews
 - Keyboard Mapping (macOS)
 - Math Books of interest
-- Recipes - specifically for bread or paleo cookies or something
+- Recipes - specifically for bread or paleo cookies or something could you link the recipe app?
