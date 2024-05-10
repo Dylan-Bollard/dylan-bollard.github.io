@@ -14,12 +14,18 @@ TO DO:
 	+ EC 201 Course
 
 ** WEBSITE **
-- sitemap
+
+
+
+
 - Google Tag Manager
 - finish linking projects
 
 
 ** POSTS **
+- Mealie TRUENAS Scale install and talk about key features
+https://github.com/flayzer/TrueNAS-Scale/blob/main/Installing%20Mealie.md
+
 - Hydrostatic Equilibrium
 - Minecraft Servers
 - Plex Servers (headless)
